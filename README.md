@@ -1,2 +1,3 @@
 # hello-world
-It consist of learning, research-development, ideas, resources and discussions.
+It consists of learning, research-development, ideas, resources and discussions.
+This repository is especially for knowledge-sharing.
